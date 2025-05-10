@@ -8,12 +8,29 @@ h1{
 p{
 color:yellow;
 font-family: "Didact Gothic", sans-serif;
+font-size:20px;
 }
 
 body{
   display: block;
   background-color: #281840;
 background-image: url("data:image/svg+xml,%3Csvg width='40' height='40' viewBox='0 0 40 40' xmlns='http://www.w3.org/2000/svg'%3E%3Cg fill='%235d33a0' fill-opacity='0.4' fill-rule='evenodd'%3E%3Cpath d='M0 40L40 0H20L0 20M40 40V20L20 40'/%3E%3C/g%3E%3C/svg%3E");
+}
+
+.avada{
+  width: 100px;
+  height: 100px;
+}
+
+.momentum{
+  background-color: blueviolet;
+  width: 100px;
+  height: 70px;
+}
+
+.zaymannya{
+  width: 100px;
+  height: 151;
 }
 
 table{
